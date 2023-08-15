@@ -2,10 +2,10 @@
 
 one:
   title: MyString
-  cd: MyString
-  /Users/vasanaattanayake/code/Vas2244/fullstack-challenges/: MyString
+  details: MyText
+  completed: false
 
 two:
   title: MyString
-  cd: MyString
-  /Users/vasanaattanayake/code/Vas2244/fullstack-challenges/: MyString
+  details: MyText
+  completed: false
